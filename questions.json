@@ -1,0 +1,72 @@
+{
+   "1": {
+    "question": "O que significa a expressão LGBTQI?\n a)Lésbicas, Gays, Bissexuais, Transsexuais, Travestis, Transgêneros, Queer, Intersexo\n b)Lésbicas, Gays, Binário, Queer, Interrogação\n c)Lésbicas, Gays, Não binários, Transgêneros, Queer, Intersexual\n d)Lésbicas, Gays, Biscoito, Transsexuais, Queer, Pansexual",
+    "rightAnswer": "a",
+    "info": "a) Lésbicas, Gays, Bissexuais, Transsexuais, Travestis, Transgêneros, Queer, Intersexo",
+    "user": "None",
+    "level": "easy"
+   },
+   "2": {
+    "question": "Qual foi o primeiro pais a legalizar o casamento entre pessoas do mesmo sexo?\n a)Estados Unidos\n b)Bélgica\n c)Holanda\n d)Suécia\n e)Canadá",
+    "rightAnswer": "c",
+    "info": "c) Holanda",
+    "user": "None",
+    "level": "easy"
+   },
+   "3": {
+    "question": "Qual o pais que mais mata LGBTQI+ no mundo?\n a)Azerbaijão\n b)Irã\n c)Nigéria\n d)China\n e)Brasil",
+    "rightAnswer": "e",
+    "info": "e)Brasil",
+    "user": "None",
+    "level": "easy"
+   },
+   "4": {
+    "question": "Qual é a maior parada LGBTQI+ do mundo?\n a)São Francisco\n b)São Paulo\n c)Amsterdã\n d)Toronto\n e)Madri",
+    "rightAnswer": "b",
+    "info": "b)São Paulo",
+    "user": "None",
+    "level": "medium"
+   },
+   "5": {
+    "question": "Em quantos países ser homossexual é crime?\n a)20\n b)100\n c)70\n d)50\n e)90",
+    "rightAnswer": "c",
+    "info": "c)70",
+    "user": "None",
+    "level": "medium"
+   },
+   "6": {
+    "question": "Em que ano o Brasil oficializou o casamento homossexual?\n a)2010\n b)2011\n c)2012\n d)2013\n e)Não oficializou ainda",
+    "rightAnswer": "d",
+    "info": "d)2013",
+    "user": "None",
+    "level": "medium"
+   },
+   "7": {
+    "question": "Como a parada LGBTQI+ teve início?\n a)Em comemoração ao aniversário de “Stonewall Inn”\n b)Em protesto ao assédio da polícia de Nova York a LGBTQI+\n c)Em manifestação as constantes mortes de LGBTQI+\n d)Em comemoração a legitimação do casamento homossexual nos Estados Unidos\n e)Em protesto a morte de Sylvia Rivera, mulher negra que se identificava como queer, drag queen e lutava pelos direitos transgênero",
+    "rightAnswer": "a",
+    "info": "a)Em comemoração ao aniversário de “Stonewall Inn”",
+    "user": "None",
+    "level": "medium"
+   },
+   "8": {
+    "question": "Sabendo que a expectativa de vida média no Brasil é 75,5 anos, qual a expectativa de vida da população transexual no Brasil?\n a)70\n b)35\n c)65\n d)40\n e)45",
+    "rightAnswer": "b",
+    "info": "b)35",
+    "user": "None",
+    "level": "hard"
+   },
+   "9": {
+    "question": "Que ano foi fundado o Grupo Gay da Bahia, a mais antiga associação de defesa dos direitos humanos homossexuais do Brasil?\n a)1990\n b)1985\n c)1973\n d)1997\n e)1980",
+    "rightAnswer": "e",
+    "info": "e)1980",
+    "user": "None",
+    "level": "hard"
+   },
+   "10": {
+    "question": "Em que ano foi legalizado a alteração de nome social sem precisar de cirurgia ou ordem judicial?\n a)2010\n b)2014\n c)2012\n d)2018\n e)2016",
+    "rightAnswer": "d",
+    "info": "d)2018",
+    "user": "None",
+    "level": "hard"
+   }
+}
