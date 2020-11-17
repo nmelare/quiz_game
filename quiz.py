@@ -25,7 +25,7 @@ def scoreCheck(key, meta) -> int:
     medium = "medium"
     hard = "hard"
     if meta["user"].lower() == actual.lower():
-        print("Q.{0} Correto, parabéns!\n".format(key))
+        print("\n Q.{0} Correto, parabéns!\n".format(key))
         if easy == meta["level"]:
             return 5
         elif medium == meta["level"]:
@@ -33,9 +33,9 @@ def scoreCheck(key, meta) -> int:
         else:
             return 15
     else:
-        print("Q.{0} Está errada!\n".format(key))
+        print("\n Q.{0} Está errada!\n".format(key))
         print ("A resposta correta é: " + meta["info"] + "\n")
-        time.sleep(5)
+        time.sleep(2)
         return 0
 
 def scoreCount(questions):
@@ -50,7 +50,7 @@ def scoreCount(questions):
         print("Parece que você é um pequeno gafanhoto aprendendo sobre a comunidade LGBTQI+. Jogue de novo para aprender um pouco mais!")
 
 def playQuiz():
-    question = loadQuestions('quiz/'+questions+'.json')
+    question = loadQuestions(questions+".json")
     scoreCount(question)
 
 playQuiz()
